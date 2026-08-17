@@ -2,6 +2,8 @@
 
 一个手机端优先、可直接运行的 React H5 小游戏。玩家沿着纵向像素地图依次完成 15 个概念关，再把获得的五个模块装成 AI 工作台。
 
+在线试玩：https://curious136425.github.io/ai-jargon-quest/
+
 ## 运行
 
 需要 Node.js 20.19 或更高版本。
